@@ -1,0 +1,27 @@
+{
+  "name": "book-management-system",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A simple Book Management System built with React + Vite that supports CRUD operations, search, and filtering.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "server": "json-server --watch db.json --port 5000"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.24.0",
+    "react-toastify": "^10.0.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "json-server": "^0.17.4",
+    "vite": "^5.3.1"
+  }
+}

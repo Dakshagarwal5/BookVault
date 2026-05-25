@@ -1,0 +1,46 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction",
+      "year": 1925
+    },
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "year": 1960
+    },
+    {
+      "id": "3",
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Science Fiction",
+      "year": 1949
+    },
+    {
+      "id": "4",
+      "title": "Sapiens: A Brief History of Humankind",
+      "author": "Yuval Noah Harari",
+      "genre": "History",
+      "year": 2011
+    },
+    {
+      "id": "5",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "year": 1937
+    },
+    {
+      "id": "6",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-Help",
+      "year": 2018
+    }
+  ]
+}
